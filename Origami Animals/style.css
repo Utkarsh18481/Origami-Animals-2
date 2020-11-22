@@ -5,3 +5,11 @@ background-color: #00FFFF;
 .items{
 background-color: #FF0000;
 }
+
+a:link{
+color: Yellow;
+}
+
+a:visited{
+color: Yellow;
+}
