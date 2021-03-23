@@ -5,6 +5,7 @@ text-decoration: underline;
 
 .items{
 background-color: #FF0000;
+transform: scale(1.2);
 }
 
 a:link{
